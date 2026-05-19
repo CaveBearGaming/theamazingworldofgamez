@@ -128,5 +128,805 @@
     "description": "Draw and guess with friends online!",
     "rating": 4.9,
     "players": "1"
-  }
+  },
+ {
+    "id": 14,
+    "title": "8 Ball Champion",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/8ballchampion",
+    "description": "Classic pool game where you pocket balls in the correct order.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 15,
+    "title": "Gravity Blocks by Microsoft",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/gravityblocksbymicrosoft",
+    "description": "Physics-based block puzzle with falling piece mechanics.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 16,
+    "title": "Just Words",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/justwords",
+    "description": "Multiplayer word-building challenge using random letters.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 17,
+    "title": "Mahjongg Dimensions",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mahjonggdimensions",
+    "description": "3D rotating tile matching puzzle game.",
+    "rating": 4.8,
+    "players": "1"
+  },
+  {
+    "id": 18,
+    "title": "Microsoft Bubble",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftbubble",
+    "description": "Shoot bubbles to match colors and clear the board.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 19,
+    "title": "Microsoft Jewel",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftjewel",
+    "description": "Match-3 gem puzzle with combos and chain reactions.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 20,
+    "title": "Microsoft Klondike Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftklondikesolitaire",
+    "description": "Classic solitaire card stacking game.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 21,
+    "title": "Microsoft Mahjong",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftmahjong",
+    "description": "Tile matching puzzle with relaxing gameplay.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 22,
+    "title": "Microsoft Solitaire Collection",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mssolitairecollection",
+    "description": "Collection of classic solitaire card games.",
+    "rating": 4.9,
+    "players": "1"
+  },
+  {
+    "id": 23,
+    "title": "Microsoft Spider Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftspidersolitaire",
+    "description": "Advanced solitaire variant with multiple card suits.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 24,
+    "title": "Microsoft Sudoku",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftsudoku",
+    "description": "Fill numbers in a grid without repetition.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 25,
+    "title": "Microsoft Ultimate Word Games",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftultimatewordgames",
+    "description": "Bundle of multiple word puzzle games.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 26,
+    "title": "Microsoft Wordament",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftwordament",
+    "description": "Fast-paced multiplayer word search competition.",
+    "rating": 4.8,
+    "players": "1"
+  },
+  {
+    "id": 27,
+    "title": "Text Twist 2",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/texttwist2",
+    "description": "Unscramble letters to form words under time pressure.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 28,
+    "title": "The Price is Right Plinko",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/plinko",
+    "description": "Drop chips into slots for high score rewards.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 29,
+    "title": "10x10 Classic",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/10x10classic",
+    "description": "Fit blocks into a 10x10 grid strategically.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 30,
+    "title": "5-Roll",
+    "category": "Casino",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/5roll",
+    "description": "Dice game focused on scoring combinations.",
+    "rating": 4.2,
+    "players": "1"
+  },
+  {
+    "id": 31,
+    "title": "9-Ball Pool",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/9ballpool",
+    "description": "Pocket balls in numerical order in fast pool matches.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 32,
+    "title": "Addiction Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/addictionsolitaire",
+    "description": "Quick solitaire puzzle with sequential card placement.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 33,
+    "title": "Code Word",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/codeword",
+    "description": "Decode letters in crossword-style puzzles.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 34,
+    "title": "Fill Ins",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/fillins",
+    "description": "Fill crossword grids using word lists.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 35,
+    "title": "Memory Game",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/memorygame",
+    "description": "Match pairs by remembering card positions.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 36,
+    "title": "Texas Hold'em",
+    "category": "Casino",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/texasholdem",
+    "description": "Classic poker game with betting strategy.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 37,
+    "title": "Backgammon by Arkadium",
+    "category": "Board",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/backgammonarkadium",
+    "description": "Strategy board game of movement and blocking.",
+    "rating": 4.7,
+    "players": "2"
+  },
+  {
+    "id": 38,
+    "title": "Backgammon",
+    "category": "Board",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/backgammon",
+    "description": "Classic backgammon race game.",
+    "rating": 4.6,
+    "players": "2"
+  },
+  {
+    "id": 39,
+    "title": "Blackjack",
+    "category": "Casino",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/blackjack",
+    "description": "Try to reach 21 without busting.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 40,
+    "title": "Block Champ",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/blockchamp",
+    "description": "Block placement puzzle with row clearing.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 41,
+    "title": "Bridge by Arkadium",
+    "category": "Board",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bridgearkadium",
+    "description": "Classic bridge card game requiring partnership strategy.",
+    "rating": 4.5,
+    "players": "4"
+  },
+  {
+    "id": 42,
+    "title": "Bubble Dragons",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bubbledragons",
+    "description": "Bubble shooter game with dragon-themed levels.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 43,
+    "title": "Bubble Dragons Saga",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bubbledragonsaga",
+    "description": "Extended version of bubble dragon shooting gameplay.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 44,
+    "title": "Bubble Mouse",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bubblemouse",
+    "description": "Cute bubble shooter with mouse character.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 45,
+    "title": "Bubble Shooter",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bubbleshooter",
+    "description": "Classic bubble matching arcade shooter.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 46,
+    "title": "Bubble Town",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/bubbletown",
+    "description": "Puzzle shooter game with colorful bubble clusters.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 47,
+    "title": "Canfield Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/canfieldsolitaire",
+    "description": "Challenging solitaire variant with strict rules.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 48,
+    "title": "Card Sharks",
+    "category": "Casino",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/cardsharks",
+    "description": "Guess higher or lower in this card prediction game.",
+    "rating": 4.2,
+    "players": "1"
+  },
+  {
+    "id": 49,
+    "title": "Checkers",
+    "category": "Board",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/checkers",
+    "description": "Classic checkers board game of diagonal movement.",
+    "rating": 4.5,
+    "players": "2"
+  },
+  {
+    "id": 50,
+    "title": "Chess by Arkadium",
+    "category": "Board",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/chessarkadium",
+    "description": "Traditional chess game with AI or multiplayer.",
+    "rating": 4.8,
+    "players": "2"
+  },
+  {
+    "id": 51,
+    "title": "Crescent Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/crescentsolitaire",
+    "description": "Solitaire variant with crescent-shaped card layout.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 52,
+    "title": "Cubis 2",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/cubis2",
+    "description": "3D cube-matching puzzle game with physics.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 53,
+    "title": "Daily Crossword",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/dailycrossword",
+    "description": "Daily crossword puzzles with new clues every day.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 54,
+    "title": "Daily Word Search",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/dailywordsearch",
+    "description": "Find hidden words in themed letter grids.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 55,
+    "title": "Element Blocks",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/elementblocks",
+    "description": "Block puzzle game with elemental themed pieces.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 56,
+    "title": "Family Feud",
+    "category": "Trivia",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/familyfeud",
+    "description": "Survey-based trivia game guessing popular answers.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 57,
+    "title": "Forty Thieves",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/fortythieves",
+    "description": "Hard solitaire game using two decks of cards.",
+    "rating": 4.2,
+    "players": "1"
+  },
+  {
+    "id": 58,
+    "title": "FreeCell Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/freecell",
+    "description": "Strategic solitaire where every deal is solvable.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 59,
+    "title": "Gin Rummy",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/ginrummy",
+    "description": "Card matching game aiming for sets and runs.",
+    "rating": 4.4,
+    "players": "2"
+  },
+  {
+    "id": 60,
+    "title": "Golf Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/golfsolitaire",
+    "description": "Clear cards in sequence like a golf scoring challenge.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+    "id": 61,
+    "title": "Hearts",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/hearts",
+    "description": "Avoid scoring points in this trick-taking card game.",
+    "rating": 4.6,
+    "players": "4"
+  },
+  {
+    "id": 62,
+    "title": "Jewel Quest",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/jewelquest",
+    "description": "Adventure match-3 puzzle with treasure themes.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 63,
+    "title": "Jewel Shuffle",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/jewelshuffle",
+    "description": "Classic gem swapping match-3 puzzle game.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 64,
+    "title": "Klondike Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/klondikesolitaire",
+    "description": "Standard solitaire card stacking game.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 65,
+    "title": "Landing Party",
+    "category": "Arcade",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/landingparty",
+    "description": "Arcade landing challenge requiring timing and precision.",
+    "rating": 4.2,
+    "players": "1"
+  },
+  {
+    "id": 66,
+    "title": "Letter Garden",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/lettergarden",
+    "description": "Find words hidden in a growing letter grid.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 67,
+    "title": "Lumeno",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/lumeno",
+    "description": "Connect glowing nodes in a relaxing puzzle flow.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 68,
+    "title": "Mahjongg Candy",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mahjonggcandy",
+    "description": "Candy-themed mahjong tile matching puzzle.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 69,
+    "title": "Mahjongg Dark Dimensions",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mahjonggdarkdimensions",
+    "description": "Fast-paced 3D mahjong with timed challenges.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 70,
+    "title": "Mahjongg Dimensions Classic",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mahjonggdimensionsclassic",
+    "description": "Classic version of 3D rotating mahjong puzzles.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 71,
+    "title": "Mahjongg Toy Chest",
+    "category": "Mahjong",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mahjonggtoychest",
+    "description": "Toy-themed mahjong tile matching game.",
+    "rating": 4.5,
+    "players": "1"
+  },
+  {
+    "id": 72,
+    "title": "Mathdoku",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/mathdoku",
+    "description": "Sudoku-style puzzle using math operations.",
+    "rating": 4.4,
+    "players": "1"
+  },
+  {
+    "id": 73,
+    "title": "Microsoft Crosswords",
+    "category": "Word",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/microsoftcrosswords",
+    "description": "Daily crossword puzzles with varying difficulty.",
+    "rating": 4.6,
+    "players": "1"
+  },
+  {
+    "id": 74,
+    "title": "Microsoft FreeCell Solitaire",
+    "category": "Card",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/freecellsolitaire",
+    "description": "Classic FreeCell solitaire with strategic planning.",
+    "rating": 4.7,
+    "players": "1"
+  },
+  {
+    "id": 75,
+    "title": "Microsoft Gem Drop",
+    "category": "Puzzle",
+    "thumbnail": "https://zone.msn.com/favicon.ico",
+    "url": "https://zone.msn.com/en/games/gemdrop",
+    "description": "Drop and match gems to clear levels.",
+    "rating": 4.3,
+    "players": "1"
+  },
+  {
+  "id": 76,
+  "title": "Microsoft Jigsaw",
+  "category": "Puzzle",
+  "thumbnail": "https://zone.msn.com/favicon.ico",
+  "url": "https://zone.msn.com/en/games/jigsaw",
+  "description": "Classic jigsaw puzzle game with multiple image sets.",
+  "rating": 4.7,
+  "players": "1"
+  },
+    {
+      "id": 77,
+      "title": "Microsoft Mahjong 3D",
+      "category": "Mahjong",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/mahjongg3d",
+      "description": "3D mahjong tile matching with rotating board.",
+      "rating": 4.6,
+      "players": "1"
+    },
+    {
+      "id": 78,
+      "title": "Microsoft Pyramid Solitaire",
+      "category": "Card",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/pyramidsolitaire",
+      "description": "Remove cards that add up to 13 in pyramid layout.",
+      "rating": 4.5,
+      "players": "1"
+    },
+    {
+      "id": 79,
+      "title": "Microsoft TriPeaks Solitaire",
+      "category": "Card",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/tripeakssolitaire",
+      "description": "Clear peaks of cards in sequence strategy game.",
+      "rating": 4.6,
+      "players": "1"
+    },
+    {
+      "id": 80,
+      "title": "Microsoft Word Twister",
+      "category": "Word",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/wordtwister",
+      "description": "Twist letters to form valid words quickly.",
+      "rating": 4.4,
+      "players": "1"
+    },
+    {
+      "id": 81,
+      "title": "Outspell",
+      "category": "Word",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/outspell",
+      "description": "Scrabble-style word placement strategy game.",
+      "rating": 4.6,
+      "players": "1"
+    },
+    {
+      "id": 82,
+      "title": "Pinochle",
+      "category": "Card",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/pinochle",
+      "description": "Classic trick-taking card game using melds.",
+      "rating": 4.4,
+      "players": "2"
+    },
+    {
+      "id": 83,
+      "title": "Press Your Luck Slots",
+      "category": "Casino",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/pressyourluckslots",
+      "description": "Slot machine game based on chance and bonus spins.",
+      "rating": 4.3,
+      "players": "1"
+    },
+    {
+      "id": 84,
+      "title": "Spades",
+      "category": "Card",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/spades",
+      "description": "Team-based trick-taking card game.",
+      "rating": 4.7,
+      "players": "4"
+    },
+    {
+      "id": 85,
+      "title": "Sweet Shuffle",
+      "category": "Puzzle",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/sweetshuffle",
+      "description": "Candy-themed match and shuffle puzzle game.",
+      "rating": 4.4,
+      "players": "1"
+    },
+    {
+      "id": 86,
+      "title": "Daily Sudoku",
+      "category": "Puzzle",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/dailysudoku",
+      "description": "Daily updated Sudoku challenges.",
+      "rating": 4.7,
+      "players": "1"
+    },
+    {
+      "id": 87,
+      "title": "Daily Diagonal Sudoku",
+      "category": "Puzzle",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/diagonalsudoku",
+      "description": "Sudoku variant with diagonal constraints.",
+      "rating": 4.6,
+      "players": "1"
+    },
+    {
+      "id": 88,
+      "title": "Totemia Cursed Marbles",
+      "category": "Arcade",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/totemia",
+      "description": "Marble shooting puzzle with ancient temple theme.",
+      "rating": 4.5,
+      "players": "1"
+    },
+    {
+      "id": 89,
+      "title": "Trizzle",
+      "category": "Puzzle",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/trizzle",
+      "description": "Merge tile puzzle game with stacking mechanics.",
+      "rating": 4.4,
+      "players": "1"
+    },
+    {
+      "id": 90,
+      "title": "True Trivia",
+      "category": "Trivia",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/truetrivia",
+      "description": "General knowledge trivia challenge.",
+      "rating": 4.3,
+      "players": "1"
+    },
+    {
+      "id": 91,
+      "title": "Wander Words",
+      "category": "Word",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/wanderwords",
+      "description": "Word puzzle game with path-based letter linking.",
+      "rating": 4.6,
+      "players": "1"
+    },
+    {
+      "id": 92,
+      "title": "Word Wipe",
+      "category": "Word",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/wordwipe",
+      "description": "Find and clear words in a fast-paced grid.",
+      "rating": 4.7,
+      "players": "1"
+    },
+    {
+      "id": 93,
+      "title": "Zoo Boom",
+      "category": "Puzzle",
+      "thumbnail": "https://zone.msn.com/favicon.ico",
+      "url": "https://zone.msn.com/en/games/zooboom",
+      "description": "Match animal tiles in colorful puzzle levels.",
+      "rating": 4.5,
+      "players": "1"
+    }
 ]
