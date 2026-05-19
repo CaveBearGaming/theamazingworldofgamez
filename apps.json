@@ -144,7 +144,7 @@
     "title": "Gravity Blocks by Microsoft",
     "category": "Puzzle",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/gravityblocksbymicrosoft",
+    "url": "https://zone.msn.com/en/games/microsoft-gravity-blocks",
     "description": "Physics-based block puzzle with falling piece mechanics.",
     "rating": 4.4,
     "players": "1"
@@ -174,7 +174,7 @@
     "title": "Microsoft Bubble",
     "category": "Arcade",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftbubble",
+    "url": "https://zone.msn.com/en/games/microsoft-bubble",
     "description": "Shoot bubbles to match colors and clear the board.",
     "rating": 4.3,
     "players": "1"
@@ -184,7 +184,7 @@
     "title": "Microsoft Jewel",
     "category": "Puzzle",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftjewel",
+    "url": "https://zone.msn.com/en/games/msjewelnew",
     "description": "Match-3 gem puzzle with combos and chain reactions.",
     "rating": 4.5,
     "players": "1"
@@ -194,7 +194,7 @@
     "title": "Microsoft Klondike Solitaire",
     "category": "Card",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftklondikesolitaire",
+    "url": "https://zone.msn.com/en/games/msklondike",
     "description": "Classic solitaire card stacking game.",
     "rating": 4.6,
     "players": "1"
@@ -204,7 +204,7 @@
     "title": "Microsoft Mahjong",
     "category": "Mahjong",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftmahjong",
+    "url": "https://zone.msn.com/en/games/microsoft-mahjong",
     "description": "Tile matching puzzle with relaxing gameplay.",
     "rating": 4.7,
     "players": "1"
@@ -224,7 +224,7 @@
     "title": "Microsoft Spider Solitaire",
     "category": "Card",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftspidersolitaire",
+    "url": "https://zone.msn.com/en/games/microsoft-spider-solitaire",
     "description": "Advanced solitaire variant with multiple card suits.",
     "rating": 4.5,
     "players": "1"
@@ -234,7 +234,7 @@
     "title": "Microsoft Sudoku",
     "category": "Puzzle",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftsudoku",
+    "url": "https://zone.msn.com/en/games/mssudoku",
     "description": "Fill numbers in a grid without repetition.",
     "rating": 4.7,
     "players": "1"
@@ -244,7 +244,7 @@
     "title": "Microsoft Ultimate Word Games",
     "category": "Word",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftultimatewordgames",
+    "url": "https://zone.msn.com/en/games/msultimateword",
     "description": "Bundle of multiple word puzzle games.",
     "rating": 4.6,
     "players": "1"
@@ -254,7 +254,7 @@
     "title": "Microsoft Wordament",
     "category": "Word",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftwordament",
+    "url": "https://zone.msn.com/en/games/mswordament",
     "description": "Fast-paced multiplayer word search competition.",
     "rating": 4.8,
     "players": "1"
@@ -274,7 +274,7 @@
     "title": "The Price is Right Plinko",
     "category": "Arcade",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/plinko",
+    "url": "https://zone.msn.com/en/games/plinko-game",
     "description": "Drop chips into slots for high score rewards.",
     "rating": 4.5,
     "players": "1"
@@ -284,7 +284,7 @@
     "title": "10x10 Classic",
     "category": "Puzzle",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/10x10classic",
+    "url": "https://zone.msn.com/en/games/10x10",
     "description": "Fit blocks into a 10x10 grid strategically.",
     "rating": 4.3,
     "players": "1"
@@ -360,16 +360,6 @@
     "players": "1"
   },
   {
-    "id": 37,
-    "title": "Backgammon by Arkadium",
-    "category": "Board",
-    "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/backgammonarkadium",
-    "description": "Strategy board game of movement and blocking.",
-    "rating": 4.7,
-    "players": "2"
-  },
-  {
     "id": 38,
     "title": "Backgammon",
     "category": "Board",
@@ -404,7 +394,7 @@
     "title": "Bridge by Arkadium",
     "category": "Board",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/bridgearkadium",
+    "url": "https://zone.msn.com/en/games/bridgebyarkadium",
     "description": "Classic bridge card game requiring partnership strategy.",
     "rating": 4.5,
     "players": "4"
@@ -424,7 +414,7 @@
     "title": "Bubble Dragons Saga",
     "category": "Arcade",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/bubbledragonsaga",
+    "url": "https://zone.msn.com/en/games/bubbledragonssaga",
     "description": "Extended version of bubble dragon shooting gameplay.",
     "rating": 4.4,
     "players": "1"
@@ -494,7 +484,7 @@
     "title": "Chess by Arkadium",
     "category": "Board",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/chessarkadium",
+    "url": "https://zone.msn.com/en/games/chessbyarkadium",
     "description": "Traditional chess game with AI or multiplayer.",
     "rating": 4.8,
     "players": "2"
@@ -567,16 +557,6 @@
     "url": "https://zone.msn.com/en/games/fortythieves",
     "description": "Hard solitaire game using two decks of cards.",
     "rating": 4.2,
-    "players": "1"
-  },
-  {
-    "id": 58,
-    "title": "FreeCell Solitaire",
-    "category": "Card",
-    "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/freecell",
-    "description": "Strategic solitaire where every deal is solvable.",
-    "rating": 4.7,
     "players": "1"
   },
   {
@@ -724,7 +704,7 @@
     "title": "Microsoft Crosswords",
     "category": "Word",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/microsoftcrosswords",
+    "url": "https://zone.msn.com/en/games/mscrosswords",
     "description": "Daily crossword puzzles with varying difficulty.",
     "rating": 4.6,
     "players": "1"
@@ -744,7 +724,7 @@
     "title": "Microsoft Gem Drop",
     "category": "Puzzle",
     "thumbnail": "https://zone.msn.com/favicon.ico",
-    "url": "https://zone.msn.com/en/games/gemdrop",
+    "url": "https://zone.msn.com/en/games/gem-drop",
     "description": "Drop and match gems to clear levels.",
     "rating": 4.3,
     "players": "1"
@@ -754,7 +734,7 @@
   "title": "Microsoft Jigsaw",
   "category": "Puzzle",
   "thumbnail": "https://zone.msn.com/favicon.ico",
-  "url": "https://zone.msn.com/en/games/jigsaw",
+  "url": "https://zone.msn.com/en/games/msjigsaw",
   "description": "Classic jigsaw puzzle game with multiple image sets.",
   "rating": 4.7,
   "players": "1"
@@ -764,7 +744,7 @@
       "title": "Microsoft Mahjong 3D",
       "category": "Mahjong",
       "thumbnail": "https://zone.msn.com/favicon.ico",
-      "url": "https://zone.msn.com/en/games/mahjongg3d",
+      "url": "https://zone.msn.com/en/games/microsoft-mahjong-3d",
       "description": "3D mahjong tile matching with rotating board.",
       "rating": 4.6,
       "players": "1"
@@ -774,7 +754,7 @@
       "title": "Microsoft Pyramid Solitaire",
       "category": "Card",
       "thumbnail": "https://zone.msn.com/favicon.ico",
-      "url": "https://zone.msn.com/en/games/pyramidsolitaire",
+      "url": "https://zone.msn.com/en/games/mspyramid",
       "description": "Remove cards that add up to 13 in pyramid layout.",
       "rating": 4.5,
       "players": "1"
@@ -784,7 +764,7 @@
       "title": "Microsoft TriPeaks Solitaire",
       "category": "Card",
       "thumbnail": "https://zone.msn.com/favicon.ico",
-      "url": "https://zone.msn.com/en/games/tripeakssolitaire",
+      "url": "https://zone.msn.com/en/games/mstripeaks",
       "description": "Clear peaks of cards in sequence strategy game.",
       "rating": 4.6,
       "players": "1"
@@ -794,7 +774,7 @@
       "title": "Microsoft Word Twister",
       "category": "Word",
       "thumbnail": "https://zone.msn.com/favicon.ico",
-      "url": "https://zone.msn.com/en/games/wordtwister",
+      "url": "https://zone.msn.com/en/games/mswordtwister",
       "description": "Twist letters to form valid words quickly.",
       "rating": 4.4,
       "players": "1"
@@ -864,7 +844,7 @@
       "title": "Daily Diagonal Sudoku",
       "category": "Puzzle",
       "thumbnail": "https://zone.msn.com/favicon.ico",
-      "url": "https://zone.msn.com/en/games/diagonalsudoku",
+      "url": "https://zone.msn.com/en/games/dailydiagonalsudoku",
       "description": "Sudoku variant with diagonal constraints.",
       "rating": 4.6,
       "players": "1"
