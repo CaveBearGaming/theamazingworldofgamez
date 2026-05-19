@@ -854,6 +854,8 @@
   <p id="footerCount">Loading...</p>
 </footer>
 
+<audio id="bootAudio" src="boot.mp3" preload="auto"></audio>
+  
 <!-- MODAL -->
 <div class="modal-backdrop" id="modal" style="display:none;" onclick="closeModalBackdrop(event)">
   <div class="modal-box">
@@ -1076,6 +1078,14 @@
   });
 
   loadGames();
+
+  window.addEventListener('load', () => {
+  const audio = document.getElementById('bootAudio');
+  audio.volume = 0.7;
+  audio.play().catch(() => {
+    console.log("Autoplay blocked");
+  });
+});
 </script>
 </body>
 </html>
