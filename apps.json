@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://play2048.co/favicon.png",
+    "url": "https://play2048.co/",
+    "description": "Slide tiles and reach 2048!",
+    "rating": 4.8,
+    "players": "1P"
+  },
+  {
+    "id": 2,
+    "title": "Wordle",
+    "category": "Word",
+    "thumbnail": "https://www.nytimes.com/favicon.ico",
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "description": "Guess the 5-letter word in 6 tries.",
+    "rating": 4.9,
+    "players": "1P"
+  },
+  {
+    "id": 3,
+    "title": "Chess",
+    "category": "Strategy",
+    "thumbnail": "https://www.chess.com/favicon.ico",
+    "url": "https://www.chess.com/play/online",
+    "description": "Play chess online vs friends or AI.",
+    "rating": 4.9,
+    "players": "1-2P"
+  },
+  {
+    "id": 4,
+    "title": "Slither.io",
+    "category": "Action",
+    "thumbnail": "https://slither.io/favicon.ico",
+    "url": "https://slither.io/",
+    "description": "Grow your snake and eat others!",
+    "rating": 4.5,
+    "players": "Online"
+  },
+  {
+    "id": 5,
+    "title": "Agar.io",
+    "category": "Action",
+    "thumbnail": "https://agar.io/favicon.ico",
+    "url": "https://agar.io/",
+    "description": "Eat cells, grow massive, dominate.",
+    "rating": 4.6,
+    "players": "Online"
+  },
+  {
+    "id": 6,
+    "title": "Dino Game",
+    "category": "Arcade",
+    "thumbnail": "https://chromedino.com/favicon.ico",
+    "url": "https://chromedino.com/",
+    "description": "The classic Chrome offline dino run.",
+    "rating": 4.7,
+    "players": "1P"
+  },
+  {
+    "id": 7,
+    "title": "Little Alchemy 2",
+    "category": "Puzzle",
+    "thumbnail": "https://littlealchemy2.com/favicon.ico",
+    "url": "https://littlealchemy2.com/",
+    "description": "Combine elements to create the world.",
+    "rating": 4.8,
+    "players": "1P"
+  },
+  {
+    "id": 8,
+    "title": "GeoGuessr",
+    "category": "Trivia",
+    "thumbnail": "https://www.geoguessr.com/favicon.ico",
+    "url": "https://www.geoguessr.com/",
+    "description": "Guess where in the world you are!",
+    "rating": 4.9,
+    "players": "1P"
+  },
+  {
+    "id": 9,
+    "title": "Sporcle",
+    "category": "Trivia",
+    "thumbnail": "https://www.sporcle.com/favicon.ico",
+    "url": "https://www.sporcle.com/",
+    "description": "Thousands of trivia quizzes.",
+    "rating": 4.6,
+    "players": "1P"
+  },
+  {
+    "id": 10,
+    "title": "Krunker.io",
+    "category": "Shooter",
+    "thumbnail": "https://krunker.io/favicon.ico",
+    "url": "https://krunker.io/",
+    "description": "Fast-paced browser FPS shooter.",
+    "rating": 4.7,
+    "players": "Online"
+  },
+  {
+    "id": 11,
+    "title": "Minesweeper",
+    "category": "Puzzle",
+    "thumbnail": "https://minesweeper.online/favicon.ico",
+    "url": "https://minesweeper.online/",
+    "description": "Classic Minesweeper, perfected.",
+    "rating": 4.5,
+    "players": "1P"
+  },
+  {
+    "id": 12,
+    "title": "Skribbl.io",
+    "category": "Party",
+    "thumbnail": "https://skribbl.io/favicon.ico",
+    "url": "https://skribbl.io/",
+    "description": "Draw and guess with friends online!",
+    "rating": 4.8,
+    "players": "Online"
+  }
+]
