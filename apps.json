@@ -118,5 +118,15 @@
     "description": "Draw and guess with friends online!",
     "rating": 4.8,
     "players": "Online"
+  },
+  {
+    "id": 13,
+    "title": "Snow Rider",
+    "category": "Arcade",
+    "thumbnail": "https://itsvijaysingh.github.io/Snow-Rider3D/favicon.ico",
+    "url": "https://itsvijaysingh.github.io/Snow-Rider3D/",
+    "description": "Draw and guess with friends online!",
+    "rating": 4.9,
+    "players": "1"
   }
 ]
